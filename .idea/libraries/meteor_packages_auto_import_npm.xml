@@ -1438,6 +1438,12 @@
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/invertBy.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/src/vlq.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/ms/index.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/entries.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/toLower.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/_isIndex.js" />
@@ -4802,6 +4808,12 @@
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/invertBy.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/src/vlq.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/ms/index.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/entries.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/toLower.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/lodash/_isIndex.js" />
