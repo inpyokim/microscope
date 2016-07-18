@@ -1,5 +1,5 @@
-import './main.html';
+//import './main.html';
 
 // Meteor.subscribe('posts');
 
-Meteor.subscribe('posts', 'Meteor');
+//Meteor.subscribe('posts', 'Meteor');

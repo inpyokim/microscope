@@ -5,6 +5,6 @@
 //     return Posts.find();
 // });
 
-Meteor.publish('posts', function(title) {
-    return Posts.find({title: title});
+Meteor.publish('posts', function() {
+    return Posts.find();
 });

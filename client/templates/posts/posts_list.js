@@ -21,6 +21,6 @@
 
 Template.postsList.helpers({
     posts: function() {
-        return Posts.find({url: 'http://meteor.com'});
+        return Posts.find();
     }
 });
